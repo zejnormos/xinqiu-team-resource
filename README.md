@@ -1,2 +1,14 @@
 # xinqiu-team-resource
-HTML page archive and documentation
+
+页面文件归档说明
+
+这里集中保存独立页面文件，便于按仓库查看发布记录。
+
+## 仓库内容
+
+- 页面文件保存在根目录
+- 后续任务会继续追加新的 HTML 文件
+
+## 访问状态
+
+如果 Pages 暂未生效，可稍后重试或查看仓库中的 HTML 文件。
